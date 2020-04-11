@@ -1,0 +1,2192 @@
+﻿
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>Read Solo Leveling Chapter 270</title>
+<meta name="description" content="Solo Leveling, Solo Leveling chapter 270, read Solo Leveling, read Solo Leveling chapter 270, webnovelreader.org">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" href="https://webnovelreader.org/assets/styles/minify.css?v=1.3">
+<link rel="alternate" hreflang="en" href="https://webnovelreader.org/solo-leveling/chapter-270" />
+<link rel="canonical" href="https://webnovelreader.org/solo-leveling/chapter-270" />
+<script type="c519bdaadfc09f12aca0acae-text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-91623256-1', 'auto');
+	ga('send', 'pageview');
+
+	</script>
+<style>
+        .header .header-bottom .navbar {
+            background: #0d5a96;
+        }
+        body {
+            background: #121517;
+        }
+
+        .rating-container .rating-stars {
+            color: #0d5a96;
+        }
+ .grecaptcha-badge {
+display: none !important;
+}
+      small.ads-title {
+  font-size: 13px;
+    position: relative;
+    display: flex;
+}
+
+small.ads-title:before, small.ads-title:after {
+  content: '';
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+background: linear-gradient(to bottom,rgba(255,255,255,0) 46.5%,#0d96961a 48.5%,#0c5a96 53.5%,rgba(255,255,255,0) 53.5%);
+}
+small.ads-title span {
+    padding: 10px;
+}
+    </style>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js' type="c519bdaadfc09f12aca0acae-text/javascript"></script>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">
+  googletag.cmd.push(function() {
+        var top_banner = googletag.sizeMapping().
+         addSize([0, 0], [300, 250]).
+         addSize([730, 400], [728, 90]).
+        build();
+        
+    var sidebanner_top = googletag.sizeMapping().
+         addSize([0, 0], [300, 250]).
+         addSize([730, 400], [300, 250]).
+        build();
+        
+    var sidebanner_bot = googletag.sizeMapping().
+         addSize([0, 0], [300, 250]).
+         addSize([730, 400], [[300, 600], [300, 250]]).
+        build();
+    
+    var bottom_banner = googletag.sizeMapping().
+         addSize([0, 0], [[300, 250], [336, 280]]).
+         addSize([730, 400], [728, 90]).
+        build();
+
+
+    googletag.defineSlot('/339474670/WebNovelReader/TopBanner', [[300, 250], [728, 90]], 'div-gpt-ad-1546273656898-0').
+        defineSizeMapping(top_banner).
+        addService(googletag.pubads());
+
+    googletag.defineSlot('/339474670/WebNovelReader/Sidebar_1', [[300, 600], [300, 250]], 'div-gpt-ad-1546273656898-1').
+        defineSizeMapping(sidebanner_top).
+        addService(googletag.pubads());
+
+    googletag.defineSlot('/339474670/WebNovelReader/Sidebar_2', [[300, 600], [300, 250]], 'div-gpt-ad-1546273656898-2').
+        defineSizeMapping(sidebanner_bot).
+        addService(googletag.pubads());
+
+    googletag.defineSlot('/339474670/WebNovelReader/InStory_1', [[300, 250], [336, 280]], 'div-gpt-ad-1546273656898-3').addService(googletag.pubads());
+
+    googletag.defineSlot('/339474670/WebNovelReader/BottomStory', [[336, 280], [300, 250], [728, 90]], 'div-gpt-ad-1546273656898-4').
+        defineSizeMapping(bottom_banner).
+        addService(googletag.pubads());
+
+    googletag.enableServices();
+  });
+</script>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">
+    (function () {
+        var node = document.getElementsByTagName('script')[0],
+        rvbP = document.createElement('script');
+        window.CMT = { appId: 'd73f7132-09e5-4938-bf6f-fb31f6345882' };
+        rvbP.defer = true;
+        rvbP.type = 'text/javascript';
+        rvbP.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+            '//revboostprocdnadsprod.azureedge.net/scripts/latest/min.js';
+        node.parentNode.insertBefore(rvbP, node);
+    })();
+</script>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js' type="c519bdaadfc09f12aca0acae-text/javascript"></script>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">
+  googletag.cmd.push(function() {
+        var top_banner = googletag.sizeMapping().
+         addSize([0, 0], [300, 250]).
+         addSize([730, 400], [728, 90]).
+        build();
+        
+	var sidebanner_top = googletag.sizeMapping().
+         addSize([0, 0], [300, 250]).
+         addSize([730, 400], [300, 250]).
+        build();
+        
+	var sidebanner_bot = googletag.sizeMapping().
+         addSize([0, 0], [300, 250]).
+         addSize([730, 400], [[300, 600], [300, 250]]).
+        build();
+	
+	var bottom_banner = googletag.sizeMapping().
+         addSize([0, 0], [[300, 250], [336, 280]]).
+         addSize([730, 400], [728, 90]).
+        build();
+
+
+    googletag.defineSlot('/339474670/WebNovelReader/TopBanner', [[300, 250], [728, 90]], 'div-gpt-ad-1546273656898-0').
+        defineSizeMapping(top_banner).
+        addService(googletag.pubads());
+
+    googletag.defineSlot('/339474670/WebNovelReader/Sidebar_1', [[300, 600], [300, 250]], 'div-gpt-ad-1546273656898-1').
+        defineSizeMapping(sidebanner_top).
+        addService(googletag.pubads());
+
+    googletag.defineSlot('/339474670/WebNovelReader/Sidebar_2', [[300, 600], [300, 250]], 'div-gpt-ad-1546273656898-2').
+        defineSizeMapping(sidebanner_bot).
+        addService(googletag.pubads());
+
+    googletag.defineSlot('/339474670/WebNovelReader/InStory_1', [[300, 250], [336, 280]], 'div-gpt-ad-1546273656898-3').addService(googletag.pubads());
+
+    googletag.defineSlot('/339474670/WebNovelReader/BottomStory', [[336, 280], [300, 250], [728, 90]], 'div-gpt-ad-1546273656898-4').
+        defineSizeMapping(bottom_banner).
+        addService(googletag.pubads());
+
+    googletag.enableServices();
+  });
+</script>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">
+	(function () {
+	    var node = document.getElementsByTagName('script')[0],
+		rvbP = document.createElement('script');
+	    window.CMT = { appId: 'd73f7132-09e5-4938-bf6f-fb31f6345882' };
+	    rvbP.defer = true;
+	    rvbP.type = 'text/javascript';
+	    rvbP.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+			'//revboostprocdnadsprod.azureedge.net/scripts/latest/min.js';
+	    node.parentNode.insertBefore(rvbP, node);
+	})();
+</script>
+</head><body>
+<div class="header container">
+<div class="header-top clearfix">
+<h6><a href="https://webnovelreader.org/latest-updates">LATEST UPDATES<span class="glyphicon glyphicon-triangle-right"></span></a></h6>
+<div class="header-top--news">
+<div class="item">
+<a href="https://webnovelreader.org/i-said-make-my-abilities-average/chapter-383" target="_blank">
+I Said Make My Abilities Average!Ch. 383</a>
+</div>
+<div class="item">
+<a href="https://webnovelreader.org/zhanxian/chapter-411-1" target="_blank">
+ZhanxianCh. 411.1</a>
+</div>
+<div class="item">
+<a href="https://webnovelreader.org/martial-god-asura/chapter-4059" target="_blank">
+Martial God AsuraCh. 4059</a>
+</div>
+<div class="item">
+<a href="https://webnovelreader.org/the-desolate-era/volume-38/chapter-27" target="_blank">
+The Desolate EraVol. 38 Ch. 27</a>
+</div>
+<div class="item">
+<a href="https://webnovelreader.org/against-the-gods/chapter-1634" target="_blank">
+Against the GodsCh. 1634</a>
+</div>
+<div class="item">
+<a href="https://webnovelreader.org/tales-of-demons-and-gods/chapter-486" target="_blank">
+Tales of Demons and GodsCh. 486</a>
+</div>
+<div class="item">
+<a href="https://webnovelreader.org/battle-through-the-heavens/chapter-888" target="_blank">
+Battle Through the HeavensCh. 888</a>
+</div>
+<div class="item">
+<a href="https://webnovelreader.org/heavenly-jewel-change/chapter-" target="_blank">
+Heavenly Jewel ChangeCh. </a>
+</div>
+</div>
+<ul class="header-top--navbar hidden-sm hidden-xs"></ul>
+</div>
+<div class="header-middle">
+<div class="row">
+<div class="col-lg-4"><a href="https://webnovelreader.org/"><img src="https://webnovelreader.org/assets/images/logo.png" class="img-responsive"></a></div>
+<div class="col-lg-8">
+<div class="text-center" style="margin-bottom:50px;margin-top:50px;min-height:90px;">
+<div id='div-gpt-ad-1546273656898-0'>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1546273656898-0'); });
+</script>
+</div></div> </div>
+</div>
+</div>
+<div class="header-bottom">
+<div class="navbar navbar-inverse">
+<div class="navbar-header">
+<button type="button" data-toggle="collapse" data-target="#header-nav" class="navbar-toggle collapsed">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div id="header-nav" class="collapse navbar-collapse">
+<ul class="nav navbar-nav" role="navigation" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+<li itemprop="url" title="HOMEPAGE"><a href="https://webnovelreader.org/">HOMEPAGE</a></li>
+<li itemprop="url" title="NOVEL LIST"><a href="https://webnovelreader.org/novel-list">NOVEL LIST</a></li>
+<li itemprop="url" title="LATEST UPDATES"><a href="https://webnovelreader.org/latest-updates">LATEST UPDATES</a></li>
+<li itemprop="url" title="TOP NOVEL"><a href="https://webnovelreader.org/top-novel">TOP NOVEL</a></li>
+<li itemprop="url" title="DETAILED SEARCH"><a href="https://webnovelreader.org/detailed-search">DETAILED SEARCH</a></li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li class=""><a href="javascript:;" data-toggle="modal" data-target="#login-modal"><span class="fa fa-user"></span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="login-modal" class="modal fade login-modal">
+<div role="document" class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" data-dismiss="modal" aria-label="Close" class="close">
+<span aria-hidden="true">×</span>
+</button>
+<h4 class="modal-title">LOGIN</h4>
+</div>
+<form metod="post" id="login-form">
+<div class="modal-body">
+<span class="pre-label">Username</span>
+<input type="text" name="username" placeholder="Username" class="form-control">
+<span class="pre-label">Password</span>
+<input name="password" type="password" placeholder="Password" class="form-control">
+</div>
+<div class="modal-footer clearfix">
+<a href="javascript:;" data-toggle="modal" data-target="#register-modal" class="forgot-password pull-left">Register</a>
+<span class="forgot-password pull-left">&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;</span>
+<a href="javascript:;" data-toggle="modal" data-target="#forgot-password-modal" class="forgot-password pull-left">Forgot your password?</a>
+<button type="submit" class="btn btn-pink pull-right">Login</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div id="forgot-password-modal" class="modal fade login-modal">
+<div role="document" class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" data-dismiss="modal" aria-label="Close" class="close">
+<span aria-hidden="true">×</span>
+</button>
+<h4 class="modal-title">Forgot Password</h4>
+</div>
+<form metod="post" id="forgot-password-form">
+<div class="modal-body">
+<span class="pre-label">Email</span>
+<input type="text" name="email" placeholder="Email" class="form-control">
+</div>
+<div class="modal-footer clearfix">
+<button type="submit" class="btn btn-pink pull-right">Submit</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div id="register-modal" class="modal fade login-modal">
+<div role="document" class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" data-dismiss="modal" aria-label="Close" class="close">
+<span aria-hidden="true">×</span>
+</button>
+<h4 class="modal-title">Register</h4>
+</div>
+<form metod="post" id="register-form">
+<div class="modal-body">
+<span class="pre-label">Username</span>
+<input type="text" name="username" placeholder="Username" class="form-control">
+<span class="pre-label">Email</span>
+<input type="text" name="email" placeholder="Email" class="form-control">
+<span class="pre-label">Password</span>
+<input type="password" name="password" placeholder="Password" class="form-control">
+<span class="pre-label">Re - Password</span>
+<input type="password" name="repassword" placeholder="Re - Password" class="form-control">
+<span class="pre-label">Gender</span>
+<div class="radio">
+<label>
+<input type="radio" name="gender" value="m" checked>
+Male
+</label>
+</div>
+<div class="radio">
+<label>
+<input type="radio" name="gender" value="f">
+Female
+</label>
+</div>
+</div>
+<div class="modal-footer clearfix">
+<button type="submit" class="btn btn-pink pull-right">Submit</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="header-search"><span class="glyphicon glyphicon-search search-icon"></span>
+<ul class="header-search--social-icons">
+<li><a href="https://www.facebook.com/Webnovelreader-257757341328574/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+</ul>
+<form method="GET" action="https://webnovelreader.org/search/autocomplete">
+<input type="text" placeholder="Search Novel" class="form-control search-form">
+<div class="autocomplete"></div>
+</form>
+</div>
+</div><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://webnovelreader.org/solo-leveling",
+                    "name": "Solo Leveling"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://webnovelreader.org/solo-leveling/chapter-270",
+                    "name": " Chapter 270"
+                }
+            }
+        ]
+    }
+</script>
+<style>
+    .chapter-actions {
+        list-style: none outside none;
+        padding: 5px;
+        background: #ededed;
+        margin-bottom: 15px;
+        height: 38px;
+    }
+
+    .chapter-actions li {
+        width: 31%;
+        margin: 3px;
+        position: relative;
+        float: left;
+    }
+
+    .chapter-actions li a.prev {
+        background: #478cde;
+        transition: background .2s;
+        display: block;
+        padding: 2px;
+        text-align: center;
+        font-family: Oswald, sans-serif;
+        font-weight: 700;
+        color: #fff;
+    }
+
+    .chapter-actions li a.next {
+        background: #0d5a96;
+        transition: background .2s;
+        display: block;
+        padding: 2px;
+        text-align: center;
+        font-family: Oswald, sans-serif;
+        font-weight: 700;
+        color: #fff;
+    }
+
+    .chapter-actions li > select {
+        width: 100%;
+        padding: 1px;
+
+    }
+
+
+    .chapter-content3 {
+        padding: 16px;
+        -webkit-user-select: none; /* Chrome all / Safari all */
+        -moz-user-select: none; /* Firefox all */
+        -ms-user-select: none; /* IE 10+ */
+        user-select: none;
+    }
+
+    .black-link {
+        color: #333333;
+        text-decoration: none;
+    }
+
+</style>
+<div class="container">
+<div class="container--content">
+<div class="row">
+<div class="col-lg-8 content2">
+<div class="row">
+<div class="col-lg-12" style="z-index: 999;">
+<div class="block-header">
+<div class="block-title">
+<h1>
+<a href="https://webnovelreader.org/solo-leveling" class="black-link">Solo Leveling</a>
+- Chapter 270 </h1>
+</div>
+</div>
+</div>
+<div class="col-lg-12">
+<center style="min-height:205px;"><div class="OUTBRAIN" data-widget-id="AR_10" data-ob-template="Admination"></div>
+<script type="c519bdaadfc09f12aca0acae-text/javascript" src="//widgets.outbrain.com/outbrain.js"></script></center><br> </div>
+<div class="col-lg-12">
+<ul class="chapter-actions">
+<li>
+<a href="https://webnovelreader.org/solo-leveling/chapter-269" class="prev">
+Previous</a> </li>
+<li>
+<select onchange="if (!window.__cfRLUnblockHandlers) return false; location = this.options[this.selectedIndex].value;" data-cf-modified-c519bdaadfc09f12aca0acae-="">
+<option value="https://webnovelreader.org/solo-leveling/chapter-prologue">
+Volume N/A - Prologue</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-1">
+Volume N/A - CH 1</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-2">
+Volume N/A - CH 2</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-3">
+Volume N/A - CH 3</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-4">
+Volume N/A - CH 4</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-5">
+Volume N/A - CH 5</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-6">
+Volume N/A - CH 6</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-7">
+Volume N/A - CH 7</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-8">
+Volume N/A - CH 8</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-9">
+Volume N/A - CH 9</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-10">
+Volume N/A - CH 10</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-11">
+Volume N/A - CH 11</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-12">
+Volume N/A - CH 12</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-13">
+Volume N/A - CH 13</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-14">
+Volume N/A - CH 14</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-15">
+Volume N/A - CH 15</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-16">
+Volume N/A - CH 16</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-17">
+Volume N/A - CH 17</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-18">
+Volume N/A - CH 18</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-19">
+Volume N/A - CH 19</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-20">
+Volume N/A - CH 20</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-21">
+Volume N/A - CH 21</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-22">
+Volume N/A - CH 22</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-23">
+Volume N/A - CH 23</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-24">
+Volume N/A - CH 24</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-25">
+Volume N/A - CH 25</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-26">
+Volume N/A - CH 26</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-27">
+Volume N/A - CH 27</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-28">
+Volume N/A - CH 28</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-29">
+Volume N/A - CH 29</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-30">
+Volume N/A - CH 30</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-31">
+Volume N/A - CH 31</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-32">
+Volume N/A - CH 32</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-33">
+Volume N/A - CH 33</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-34">
+Volume N/A - CH 34</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-35">
+Volume N/A - CH 35</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-36">
+Volume N/A - CH 36</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-37">
+Volume N/A - CH 37</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-38">
+Volume N/A - CH 38</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-39">
+Volume N/A - CH 39</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-40">
+Volume N/A - CH 40</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-41">
+Volume N/A - CH 41</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-42">
+Volume N/A - CH 42</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-43">
+Volume N/A - CH 43</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-44">
+Volume N/A - CH 44</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-45">
+Volume N/A - CH 45</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-46">
+Volume N/A - CH 46</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-47">
+ Volume N/A - CH 47</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-48">
+Volume N/A - CH 48</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-49">
+Volume N/A - CH 49</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-50">
+Volume N/A - CH 50</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-51">
+Volume N/A - CH 51</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-52">
+Volume N/A - CH 52</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-53">
+Volume N/A - CH 53</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-54">
+Volume N/A - CH 54</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-55">
+Volume N/A - CH 55</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-56">
+Volume N/A - CH 56</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-57">
+Volume N/A - CH 57</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-58">
+Volume N/A - CH 58</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-59">
+Volume N/A - CH 59</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-60">
+Volume N/A - CH 60</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-61">
+Volume N/A - CH 61</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-62">
+Volume N/A - CH 62</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-63">
+Volume N/A - CH 63</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-64">
+Volume N/A - CH 64</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-65">
+Volume N/A - CH 65</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-66">
+Volume N/A - CH 66</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-67">
+Volume N/A - CH 67</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-68">
+Volume N/A - CH 68</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-69">
+Volume N/A - CH 69</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-70">
+Volume N/A - CH 70</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-71">
+Volume N/A - CH 71</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-72">
+Volume N/A - CH 72</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-73">
+Volume N/A - CH 73</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-74">
+Volume N/A - CH 74</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-75">
+Volume N/A - CH 75</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-76">
+Volume N/A - CH 76</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-77">
+Volume N/A - CH 77</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-78">
+Volume N/A - CH 78</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-79">
+Volume N/A - CH 79</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-80">
+Volume N/A - CH 80</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-81">
+Volume N/A - CH 81</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-82">
+Volume N/A - CH 82</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-83">
+Volume N/A - CH 83</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-84">
+Volume N/A - CH 84</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-85">
+Volume N/A - CH 85</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-86">
+Volume N/A - CH 86</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-87">
+Volume N/A - CH 87</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-88">
+Volume N/A - CH 88</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-89">
+Volume N/A - CH 89</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-90">
+Volume N/A - CH 90</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-91">
+Volume N/A - CH 91</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-92">
+Volume N/A - CH 92</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-93">
+Volume N/A - CH 93</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-94">
+Volume N/A - CH 94</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-95">
+Volume N/A - CH 95</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-96">
+Volume N/A - CH 96</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-97">
+Volume N/A - CH 97</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-98">
+Volume N/A - CH 98</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-99">
+Volume N/A - CH 99</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-100">
+Volume N/A - CH 100</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-101">
+Volume N/A - CH 101</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-102">
+ Volume N/A - CH 102</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-103">
+Volume N/A - CH 103</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-104">
+Volume N/A - CH 104</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-105">
+Volume N/A - CH 105</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-106">
+Volume N/A - CH 106</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-107">
+Volume N/A - CH 107</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-108">
+Volume N/A - CH 108</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-109">
+Volume N/A - CH 109</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-110">
+Volume N/A - CH 110</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-111">
+Volume N/A - CH 111</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-112">
+Volume N/A - CH 112</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-113">
+Volume N/A - CH 113</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-114">
+Volume N/A - CH 114</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-115">
+Volume N/A - CH 115</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-116">
+Volume N/A - CH 116</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-117">
+Volume N/A - CH 117</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-118">
+Volume N/A - CH 118</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-119">
+Volume N/A - CH 119</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-120">
+Volume N/A - CH 120</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-121">
+Volume N/A - CH 121</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-122">
+Volume N/A - CH 122</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-123">
+Volume N/A - CH 123</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-124">
+Volume N/A - CH 124</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-125">
+Volume N/A - CH 125</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-126">
+Volume N/A - CH 126</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-127">
+Volume N/A - CH 127</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-128">
+Volume N/A - CH 128</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-129">
+Volume N/A - CH 129</option>
+ <option value="https://webnovelreader.org/solo-leveling/chapter-130">
+Volume N/A - CH 130</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-131">
+Volume N/A - CH 131</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-132">
+Volume N/A - CH 132</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-133">
+Volume N/A - CH 133</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-134">
+Volume N/A - CH 134</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-135">
+Volume N/A - CH 135</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-136">
+Volume N/A - CH 136</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-137">
+Volume N/A - CH 137</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-138">
+Volume N/A - CH 138</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-139">
+Volume N/A - CH 139</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-140">
+Volume N/A - CH 140</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-141">
+Volume N/A - CH 141</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-142">
+Volume N/A - CH 142</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-143">
+ Volume N/A - CH 143</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-144">
+Volume N/A - CH 144</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-145">
+Volume N/A - CH 145</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-146">
+Volume N/A - CH 146</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-147">
+Volume N/A - CH 147</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-148">
+Volume N/A - CH 148</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-149">
+Volume N/A - CH 149</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-150">
+Volume N/A - CH 150</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-151">
+Volume N/A - CH 151</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-152">
+Volume N/A - CH 152</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-153">
+Volume N/A - CH 153</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-154">
+Volume N/A - CH 154</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-155">
+Volume N/A - CH 155</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-156">
+Volume N/A - CH 156</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-157">
+Volume N/A - CH 157</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-158">
+Volume N/A - CH 158</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-159">
+Volume N/A - CH 159</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-160">
+Volume N/A - CH 160</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-161">
+Volume N/A - CH 161</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-162">
+Volume N/A - CH 162</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-163">
+Volume N/A - CH 163</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-164">
+Volume N/A - CH 164</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-165">
+Volume N/A - CH 165</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-166">
+Volume N/A - CH 166</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-167">
+Volume N/A - CH 167</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-168">
+Volume N/A - CH 168</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-169">
+Volume N/A - CH 169</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-170">
+Volume N/A - CH 170</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-171">
+Volume N/A - CH 171</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-172">
+Volume N/A - CH 172</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-173">
+Volume N/A - CH 173</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-174">
+Volume N/A - CH 174</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-175">
+Volume N/A - CH 175</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-176">
+Volume N/A - CH 176</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-177">
+Volume N/A - CH 177</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-178">
+Volume N/A - CH 178</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-179">
+Volume N/A - CH 179</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-180">
+Volume N/A - CH 180</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-181">
+Volume N/A - CH 181</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-182">
+Volume N/A - CH 182</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-183">
+Volume N/A - CH 183</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-184">
+ Volume N/A - CH 184</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-185">
+Volume N/A - CH 185</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-186">
+Volume N/A - CH 186</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-187">
+Volume N/A - CH 187</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-188">
+Volume N/A - CH 188</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-189">
+Volume N/A - CH 189</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-190">
+Volume N/A - CH 190</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-191">
+Volume N/A - CH 191</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-192">
+Volume N/A - CH 192</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-193">
+Volume N/A - CH 193</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-194">
+Volume N/A - CH 194</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-195">
+Volume N/A - CH 195</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-196">
+Volume N/A - CH 196</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-197">
+Volume N/A - CH 197</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-198">
+Volume N/A - CH 198</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-199">
+Volume N/A - CH 199</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-200">
+Volume N/A - CH 200</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-201">
+Volume N/A - CH 201</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-202">
+Volume N/A - CH 202</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-203">
+Volume N/A - CH 203</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-204">
+Volume N/A - CH 204</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-205">
+Volume N/A - CH 205</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-206">
+Volume N/A - CH 206</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-207">
+Volume N/A - CH 207</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-208">
+Volume N/A - CH 208</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-209">
+Volume N/A - CH 209</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-210">
+Volume N/A - CH 210</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-211">
+Volume N/A  - CH 211</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-212">
+Volume N/A - CH 212</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-213">
+Volume N/A - CH 213</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-214">
+Volume N/A - CH 214</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-215">
+Volume N/A - CH 215</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-216">
+Volume N/A - CH 216</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-217">
+Volume N/A - CH 217</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-218">
+Volume N/A - CH 218</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-219">
+Volume N/A - CH 219</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-220">
+Volume N/A - CH 220</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-221">
+Volume N/A - CH 221</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-222">
+Volume N/A - CH 222</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-223">
+Volume N/A - CH 223</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-224">
+Volume N/A - CH 224</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-225">
+Volume N/A - CH 225</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-226">
+Volume N/A - CH 226</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-227">
+Volume N/A - CH 227</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-228">
+Volume N/A - CH 228</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-229">
+Volume N/A - CH 229</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-230">
+Volume N/A - CH 230</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-231">
+Volume N/A - CH 231</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-232">
+Volume N/A - CH 232</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-233">
+Volume N/A - CH 233</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-234">
+Volume N/A - CH 234</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-235">
+Volume N/A - CH 235</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-236">
+Volume N/A - CH 236</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-237">
+Volume N/A - CH 237</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-238">
+Volume N/A - CH 238</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-239">
+Volume N/A - CH 239</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-240">
+Volume N/A - CH 240</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-241">
+Volume N/A - CH 241</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-242">
+Volume N/A - CH 242</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-243">
+Volume N/A - CH 243</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-244">
+Volume N/A - CH 244</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-245">
+Volume N/A - CH 245</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-246">
+Volume N/A - CH 246</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-247">
+Volume N/A - CH 247</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-248">
+Volume N/A - CH 248</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-249">
+Volume N/A - CH 249</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-250">
+Volume N/A - CH 250</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-251">
+Volume N/A - CH 251</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-252">
+Volume N/A  - CH 252</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-253">
+Volume N/A - CH 253</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-254">
+Volume N/A - CH 254</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-255">
+Volume N/A - CH 255</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-256">
+Volume N/A - CH 256</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-257">
+Volume N/A - CH 257</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-258">
+Volume N/A - CH 258</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-259">
+Volume N/A - CH 259</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-260">
+Volume N/A - CH 260</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-261">
+Volume N/A - CH 261</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-262">
+Volume N/A - CH 262</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-263">
+Volume N/A - CH 263</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-264">
+Volume N/A - CH 264</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-265">
+Volume N/A - CH 265</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-266">
+Volume N/A - CH 266</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-267">
+Volume N/A - CH 267</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-268">
+Volume N/A - CH 268</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-269">
+Volume N/A - CH 269</option>
+<option selected="selected" value="https://webnovelreader.org/solo-leveling/chapter-270">
+Volume N/A - CH 270</option>
+<option value="" disabled>------</option>
+</select>
+</li>
+<li>
+</li>
+</ul>
+</div>
+<script src="https://www.google.com/recaptcha/api.js" async defer type="c519bdaadfc09f12aca0acae-text/javascript"></script>
+<div class="chapter-content3">
+<noscript>Your browser does not support JavaScript!</noscript><h3>Chapter 270: Chapter 270</h3>
+<p>Only I Level Up Recollections/After Stories</p>
+<p>Part 6: Goodbye</p>
+<p>(TL: Here it is, the very last chapter.)</p>
+<p>[The sibling conmen duo of Hwang Dong-Seok and his younger brother Hwang Dong-Su that caused an uproar in the country have been arrested earlier today&hellip;.]</p>
+<p>Beep.</p>
+<p>The TV located inside the Violent Crimes Unit that spat out the news was turned off. Jin-Woo put the remote down and picked up his coat while standing up, prompting Seh-Hwan next to him to stop the administrative work and ask a question.</p>
+<p>&ldquo;Uh? Hyung-nim, you&rsquo;re leaving already?&rdquo;</p>
+<p>&ldquo;Yeah, I&rsquo;ve got a prior arrangement to attend to, so I&rsquo;ll be going home early today.&rdquo;</p>
+<p>&ldquo;Yessir.&rdquo;</p>
+<p>Jin-Woo replied with a smile towards his partner performing a playful salute and escaped from the office. Seh-Hwan watched his boss&rsquo;s back disappear from view and chuckled slightly while crossing his arms.</p>
+<p>&ldquo;It&rsquo;s so strange. Hyung-nim always goes home early on this day every single year&hellip;.&rdquo;</p>
+<p>&hellip;.Hang on a minute.</p>
+<p>He shifted his gaze over to the calendar stuck on one of the walls and a certain thought popped up in his head.</p>
+<p>&ldquo;Ahh, so that&rsquo;s what it was. Today is&hellip;.&rdquo;</p>
+<p>***</p>
+<p>Baek Yun-Ho spat out a low sigh, his face a mess of black soot and dirt.</p>
+<p>&ldquo;Fuu&hellip;.&rdquo;</p>
+<p>Not too long ago, he and his crew managed to put out a massive wildfire raging near a residential area. This victory came about after over 50 fire engines and firefighting helicopters, as well as 800 or so brave firefighters had been mobilised.</p>
+<p>Baek Yun-Ho took a look around him. He could see his fatigued colleagues lying or squatting on the ground here and there. However, not one of them carried gloomy expressions. Some of them grinned brightly or raised their thumbs up real high when their gazes met.</p>
+<p>Whenever that happened, Baek Yun-Ho also raised his thumb up as his reply.</p>
+<p>No one died or got injured while they successfully reined in the fire. That should be seen as a real miracle in the scene of such a large-scale blaze.</p>
+<p>Even though they were deeply fatigued and left with no energy whatsoever after battling the flames for the whole night, they used their expressions to cheer each other up and celebrate their success.</p>
+<p>Baek Yun-Ho also felt deeply pleased about this outcome.</p>
+<p>It was then.</p>
+<p>&ldquo;Ouch, that&rsquo;s cold.&rdquo;</p>
+<p>He got startled by the sudden coldness touching his neck skin and took a look to his side to find Captain Seong Il-Hwan holding a bottle of ice-cold water.</p>
+<p>&ldquo;Thank you, sir.&rdquo;</p>
+<p>Baek Yun-Ho bowed his head slightly and took over the water bottle. Seong Il-Hwan settled down next to him and wetted his throat with a different bottle.</p>
+<p>The veteran of a hundred battles.</p>
+<p>Or, the greatest captain in history.</p>
+<p>Didn&rsquo;t matter what you called him, it didn&rsquo;t sound ill-fitting with Captain Seong. And as his nickname had alluded to, he had displayed unparalleled brilliance in today&rsquo;s event, too.</p>
+<p>Baek Yun-Ho was proud to be in the same crew as Seong Il-Hwan. Heck, all these bits of soot stuck on his face felt like medals of honour to him, even.</p>
+<p>&lsquo;One day, I&hellip;.&rsquo;</p>
+<p>He sneaked a glance at his respected senior from the corners of his eyes, before pouring down the remaining cold water over his head.</p>
+<p>&ldquo;Pu-haah.&rdquo;</p>
+<p>Now he felt like a living person again. The stuffy heat clinging onto him felt as if it got washed away, starting from the top of his head.</p>
+<p>But then&hellip;.</p>
+<p>&ldquo;&hellip;Ah.&rdquo;</p>
+<p>&hellip;.A scene from the past suddenly entered Baek Yun-Ho&rsquo;s brain.</p>
+<center><small class="ads-title"><span>Sponsored Content</span></small></center><br><div class="apester-media" data-token="5dc01ffed7dd4d9440363249" data-context="true" data-tags="" data-fallback="true" height="350" style="min-height:452px;"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js" type="c519bdaadfc09f12aca0acae-text/javascript"></script><br><hr><br><p>The side profile of a face he saw back then!</p>
+<p>&ldquo;Captain!&rdquo;</p>
+<p>Seong Il-Hwan&rsquo;s eyes opened wider as he turned to look at his junior.</p>
+<p>&ldquo;Yeah?&rdquo;</p>
+<p>Baek Yun-Ho hurriedly carried on.</p>
+<p>&ldquo;You know, that the large-scale blaze in Daesung Building three years ago&hellip;. You still remember that, Captain? Our team got trapped in there and almost died, didn&rsquo;t we?&rdquo;</p>
+<p>&ldquo;Yeah, I remember.&rdquo;</p>
+<p>Back then, Seong Il-Hwan and his crew were steadily losing their consciousness after being trapped within the blaze, but a mysterious stranger appeared out of nowhere, like some kind of a fantasy, and helped them to survive the ordeal.</p>
+<p>This mystery man rescued the isolated firefighters before disappearing without a trace, leading some to question whether the folks that day saw a mass hallucination at the same time or not.</p>
+<p>&ldquo;Actually, I saw the side profile of that man for a brief moment before I passed out, you see.&rdquo;</p>
+<p>&ldquo;Oh, is that so?&rdquo;</p>
+<p>&ldquo;Yes. But that guy looked so much like&hellip;..&rdquo;</p>
+<p>Unfortunately, Baek Yun-Ho didn&rsquo;t get to finish what he wanted to say.</p>
+<p>Because Seong Il-Hwan had ripped open a packet of bread he brought along with the water bottle and pushed the resulting chow in Baek Yun-Ho&rsquo;s mouth, that&rsquo;s why.</p>
+<p>&ldquo;Euph, euph??&rdquo;</p>
+<p>Baek Yun-Ho chewed through the bread and tilted his head.</p>
+<p>&ldquo;Captain?&rdquo;</p>
+<p>Seong Il-Hwan didn&rsquo;t try to answer with verbal replies and grinned as he bit into his own bread.</p>
+<p>And, as if to cool down the heads of the firefighters fatigued by all that heat, a gentle breeze blew in from somewhere and brushed past their hair, ever so softly.</p>
+<p>***</p>
+<p>Inside a conference chamber located on the top floor of a certain high-rise building.</p>
+<p>&ldquo;Chairman?&rdquo;</p>
+<p>&ldquo;&hellip;.&rdquo;</p>
+<p>&ldquo;Sir, are you alright?&rdquo;</p>
+<p>Yu Jin-Ho barely managed to suppress the corners of his lips trying to rise up to the heavens above.</p>
+<p>&ldquo;Yes, I&rsquo;m fine. Well, then. Let&rsquo;s continue&hellip;.&rdquo;</p>
+<p>Yu Jin-Ho fished through the documents placed in front of him before raising his head up to see the faces of his employees filling up the conference chamber. He formed an embarrassed grin and asked them a question.</p>
+<p>&ldquo;Uhm, what were we talking about just now?&rdquo;</p>
+<p>&ldquo;&hellip;&rdquo;</p>
+<p>The expressions of these employees hardened for a short while after they all realised that their boss hadn&rsquo;t heard a thing they were talking about for the past 30 minutes of the meeting.</p>
+<p>However, they calmed themselves and got the meeting going again.</p>
+<p>&ldquo;Sir, we were informing you that we need to come up with a new title for the virtual reality video game our company is about to publish.&rdquo;</p>
+<p>&ldquo;Ah, that&rsquo;s right. Right.&rdquo;</p>
+<p>Yu Jin-Ho nodded his head, but then, couldn&rsquo;t hold it back anymore and shot up from his seat to loudly cry out towards his employees.</p>
+<p>&ldquo;Everyone, my wife is pregnant!! It&rsquo;s already the sixth week, apparently!!&rdquo;</p>
+<p>His face was filled with an uncontrollable amount of joy right now. The inside of the conference chamber was filled with a sudden silence. But that lasted only for a brief while.</p>
+<p>Soon, documents were flying in the air and at the same time, employees were crying out in cheer as well.</p>
+<p>&ldquo;Congratulations, sir!&rdquo;</p>
+<p>&ldquo;Congrats, sir!!&rdquo;</p>
+<p>&ldquo;Finally, our Chairman has become a father!&rdquo;</p>
+<p>Yu Jin-Ho did a lap around the conference chamber and high-fived all of his employees jumping up and down in joy as if this news concerned themselves.</p>
+<p>His absolutely lovely wife, his soon-to-be-born baby, and his game development company that was making a killing year after year&hellip;.</p>
+<p>How could the world be this beautiful to his eyes right now?</p>
+<p>&lsquo;Heot!!&rsquo;</p>
+<p>During the middle of his lap of celebration, Yu Jin-Ho had a moment of sudden, powerful inspiration. He climbed up on the conference table and confidently made a declaration to his employees.</p>
+<p>&ldquo;The Beautiful World!!!&rdquo;</p>
+<p>Quite obviously, the gazes of all the employees gathered on him.</p>
+<p>&ldquo;Excuse me?&rdquo;</p>
+<p>As they began doubting their ears, Yu Jin-Ho oh-so courteously proved that their hearing wasn&rsquo;t faulty.</p>
+<p>&ldquo;That will be the title of our new game! Let&rsquo;s go with the &ldquo;Beautiful World&rsquo;!!&rdquo;</p>
+<p>The joy-filled conference chamber was enveloped in a sudden bout of silence.</p>
+<p>&ldquo;&hellip;.Are you serious, sir?&rdquo;</p>
+<p>Yu Jin-Ho replied without a moment&rsquo;s hesitation.</p>
+<p>&ldquo;Of course. The name &lsquo;Beautiful World&rsquo; fits our game that will virtually recreate reality as close as it can, so&hellip;. Ahh? What are you all doing?? H-hang on a second, everyone!! I, I might fall, you know??&rdquo;</p>
+<p>The employees began to tussle with Yu Jin-Ho desperately in order to pull him off the top of the conference table. In the midst of his struggle, his gaze inadvertently shifted outside the window.</p>
+<p>&lsquo;H-hey. Feels like something flew past just now, didn&rsquo;t it?&rsquo;</p>
+<p>Too bad, the feelings of having seen something got erased from his head in no time at all after he found himself under the crossfire of his employees&rsquo; holy crusade to stop him.</p>
+<p>&ldquo;Sir, you should rethink this&hellip;.&rdquo;</p>
+<p>&ldquo;The fate of our company hangs in the balance with this game, siiiir!&rdquo;</p>
+<p>&ldquo;I mean, it&rsquo;s not really a &lsquo;Beautiful World&rsquo;, is it, sir??&rdquo;</p>
+<p>&ldquo;You&rsquo;re being too much, you know?!&rdquo;</p>
+<p>Even though his naming sense was being mercilessly shot down and trampled on by his employees, Yu Jin-Ho still felt really happy regardless.</p>
+<p>&lsquo;Hahaha.</p>
+<p>Fine, what if I&rsquo;m no good with naming stuff?</p>
+<p>The world is still really beautiful and all, isn&rsquo;t it?&rsquo;</p>
+<p>Yu Jin-Ho stared outside the window as the sunlight poured in through the glass, and muttered to himself.</p>
+<p>&lsquo;In that case, should I ask Jin-Woo hyung-nim for the baby&rsquo;s name, instead?&rsquo;</p>
+<p>***</p>
+<p>[The chairman of Ah-Jin Soft, Yu Jin-Ho &ndash; the miraculous tale of the young and successful entrepreneur who rejected the inheritance of a Chaebol!]</p>
+<p>Slice, slice&hellip;.</p>
+<p>The chairman&rsquo;s office of the Yujin Construction was filled with the sounds of a pair of scissors cutting through a newspaper. Chairman Yu Myung-Han only raised his head after he was finished with decorating his scrapbook&rsquo;s pages.</p>
+<p>&ldquo;Were there any other articles?&rdquo;</p>
+<p>Secretary Kim, one of his hands full of newspapers, shook his head side to side.</p>
+<p>&ldquo;&hellip;.I see.&rdquo;</p>
+<p>Chairman Yu Myung-Han closed the scrapbook, his current expression filled with dissatisfaction.</p>
+<p>&ldquo;He rejected the position I created for him, and he instead starts a game company, of all things&hellip;. Tsk, tsk.&rdquo;</p>
+<p>Secretary Kim wordlessly glanced at the corner of the chairman&rsquo;s desk.</p>
+<p>That was where he could see the thick pile of newspapers with all the articles related to Yu Jin-Ho cut out. More than that, they were worked on personally by none other than the Chairman himself, too.</p>
+<p>&lsquo;&hellip;..&rsquo;</p>
+<p>Secretary Kim had to dry cough in order to hold back the laughter rushing out from the deepest part of his chest. It was then &ndash; the Chairman&rsquo;s head shifted towards the window.</p>
+<p>&ldquo;&hellip;.?&rdquo;</p>
+<p>Secretary Kim walked over to the windows himself and looked outside while asking his boss.</p>
+<p>&ldquo;What&rsquo;s the matter, sir?&rdquo;</p>
+<p>&ldquo;No&hellip;. It&rsquo;s nothing.&rdquo;</p>
+<p>They were currently on the top floor of a tall skyscraper. It was not possible for &lsquo;something&rsquo; to go past here, anyway. No, even if something did, it must&rsquo;ve been a small bird or another creature similar to that.</p>
+<p>Yu Myung-Han shook his head and handed the scrapbook over to Secretary Kim. The latter politely took the book and placed it back on the office&rsquo;s bookshelf.</p>
+<p>There were four such books on the shelf already.</p>
+<p>Chairman Yu Myung-Han&rsquo;s precious secret collection that no one knew about beside himself and his Secretary was steadily growing larger every day.</p>
+<p>***</p>
+<p>On a peaceful stretch of a road after school.</p>
+<p>Soo-Hoh had grown close to the girl from the same class before long, and now, he found himself in the midst of an important challenge to decide who&rsquo;d get to carry the school bags home with her.</p>
+<p>&ldquo;Rock, paper&hellip;.&rdquo;</p>
+<p>The girl&rsquo;s look of concentration only added to the weightiness of this confrontation. And the hour of judgement soon arrived.</p>
+<p>&ldquo;&hellip;.Scissors!&rdquo;</p>
+<p>The girl went with &lsquo;rock&rsquo;, so Soo-Hoh had to change his original choice of &lsquo;paper&rsquo; to &lsquo;scissors&rsquo; at the last second. This was the combined effort of his extraordinary dynamic vision and motor reflexes.</p>
+<p>&ldquo;Heck yeah!&rdquo;</p>
+<p>The female student celebrated her victory and while forming a pleased expression, pushed forward her school bag. Soo-Hoh smirked softly and slung the bag over his other shoulder.</p>
+<p>&ldquo;You know, you really suck at rock, paper, scissors.&rdquo;</p>
+<p>&ldquo;Tell me about it.&rdquo;</p>
+<p>&ldquo;What will we do with a guy who sucks at it so bad??&rdquo;</p>
+<p>&ldquo;I&rsquo;ll just learn it from you, that&rsquo;s all.&rdquo;</p>
+<p>Soo-Hoh smiled and strode forward while carrying bags on both of his shoulders.</p>
+<p>&ldquo;H-hey, wait for me!&rdquo;</p>
+<p>The two of them chatted about this and that as they walked side by side on a quiet back street. But, out of the blue, Soo-Hoh stopped walking and raised his head up towards the sky.</p>
+<p>&lsquo;&hellip;.?&rsquo;</p>
+<p>The girl followed suit and also looked up, but she couldn&rsquo;t see anything else, other than the floating clouds silently drifting away as if they were spectating on the two teenagers.</p>
+<p>&ldquo;What&rsquo;s wrong? Is there something up there?&rdquo;</p>
+<p>Soo-Hoh stared at the sky for a while before looking back at the girl with a light chuckle.</p>
+<p>&ldquo;Nah, it&rsquo;s nothing.&rdquo;</p>
+<p>***</p>
+<p>[Kiiiaahk-!]</p>
+<p>A Sky Dragon flew freely and unrestricted in the air while screeching out joyously. Hae-In riding on the creature&rsquo;s back asked in a worried voice.</p>
+<p>&ldquo;Dear, will this really be alright?&rdquo;</p>
+<p>&ldquo;Yup, it&rsquo;s fine.&rdquo;</p>
+<p>Jin-Woo went on to explain that he used magic to erase all presence of their ride, Kaisel, so no one should be able to hear or see them flying.</p>
+<p>&ldquo;Hold on tight, okay?&rdquo;</p>
+<p>Hae-In heard her husband&rsquo;s smile-filled advice and her arms tightly wrapped around his waist gained renewed strength. Taking that as the go-ahead, Jin-Woo immediately raised their travelling speed.</p>
+<p>[Kiiahk!]</p>
+<p>Kaisel&rsquo;s wing speed increased noticeably and they rose higher and higher until they broke past the layer of heavenly clouds above. The sight of an endlessly-stretching blue world spread out below their feet.</p>
+<p>&lsquo;Just a little bit further!&rsquo;</p>
+<p>Kah-ahhak!</p>
+<p>Kaisel flapped his wings even more vigorously.</p>
+<p>Higher, even higher!</p>
+<p>The two passengers were being protected by magic, which meant they could fly up to the part of the sky that was much closer to outer space rather than that of the planet&rsquo;s atmosphere.</p>
+<p>They were soon greeted by the spectacular sight of a giant sun rising past the outline of Earth.</p>
+<p>Hae-In leaned her head against her husband&rsquo;s shoulder and watched this mesmerising spectacle unfold in this quiet, still sky, a warm smile floating up on her lips.</p>
+<p>Jin-Woo had been waiting for this chance, so he quickly seized it and pulled out the present he had readied earlier. Her eyes grew large after seeing it.</p>
+<p>&ldquo;Dear&hellip;&rdquo;</p>
+<p>It was a special necklace he asked the bearded Dwarves to craft, as those guys happened to be rather handy with things like this.</p>
+<p>Jin-Woo gently placed the beautiful necklace shimmering under the sun&rsquo;s rays around the neck of his wife.</p>
+<p>The Shadow Soldiers watching and cheering on from his shadow all roared out in exhilaration at this wonderful conclusion of their liege&rsquo;s perfect wedding anniversary event.</p>
+<p>Waaahhh-!!</p>
+<p>Unfortunately, just before Jin-Woo&rsquo;s and Hae-In&rsquo;s lips, gradually closing in, could bridge the last couple of inches&hellip;.</p>
+<p>&hellip;.He had to break the mood first and speak to her instead.</p>
+<p>&ldquo;Dear, looks like you&rsquo;ll have to go back first and wait for me. I&rsquo;ll be home as soon as possible.&rdquo;</p>
+<p>This was already their 16th wedding anniversary, so Hae-In knew oh-so-well what was going on when Jin-Woo said those things.</p>
+<p>&ldquo;Come home soon, okay?&rdquo;</p>
+<p>Jin-Woo nodded his head and issued a new order to Kaisel. The Sky Dragon changed his heading towards Earth and quickly distanced itself.</p>
+<p>He wordlessly watched the back of his wife getting further away before turning around. Sure enough, a part of the space in the distance began distorting and tearing up before icy-blue &lsquo;fog&rsquo; began oozing out from there.</p>
+<p>It emerged after disintegrating the wall between dimensions and revealed itself, before coagulating in one point to form a large figure.</p>
+<p>Jin-Woo recalled what the envoy of the Rulers had told him all those years ago.</p>
+<p>&lsquo;He said that an existence possessing great power can act like a magnet and attract horrifying beings from other worlds, didn&rsquo;t he?&rsquo;</p>
+<p>There was no need to question just who that blue-fog monster came to visit today.</p>
+<p>The tear in space grew, so did the number of blue fog clusters at an alarming rate. Hundreds? A few thousands? It could even be a few tens of thousands.</p>
+<p>&ldquo;Fuu&hellip;.&rdquo;</p>
+<p>Just as he would do, Jin-Woo closed his eyes and took a deep breath.</p>
+<p>Would his son take over this role in the future?</p>
+<p>Who knows.</p>
+<p>But, when Jin-Woo pictured that scene in his head, he realised that it wouldn&rsquo;t be so bad at all.</p>
+<p>&lsquo;A father and son duo facing off against enemies together&hellip;.&rsquo;</p>
+<p>As a grin formed on his lips, he opened his eyes.</p>
+<p>The countless blue fog clusters had completely emerged from the gap in dimensions and, upon discovering Jin-Woo&rsquo;s presence, began emitting intense, horrifying malice towards him.</p>
+<p>The electrifying tension felt just before the battle travelled from the tip of his toes to the rest of his body.</p>
+<p>&lsquo;Nice.&rsquo;</p>
+<p>His own preparation was now complete.</p>
+<p>And eventually&hellip;.</p>
+<p>Kuwaaaahhhh-!!!</p>
+<p>Those &lsquo;things&rsquo; that acted under one will chose to eliminate the detected threat. As they moved towards Jin-Woo&rsquo;s location&hellip;</p>
+<p>&hellip;.He spoke with a smile on his face.</p>
+<p>&ldquo;Rise up.&rdquo;</p>
+<p>&ndash; Only I Level Up Recollections/After Stories Complete.</p>
+<br>
+<div class="row">
+<div class="col-md-6">
+Share this: <span class='st_facebook'></span>
+<span class='st_twitter'></span>
+<span class='st_googleplus'></span>
+<script type="c519bdaadfc09f12aca0acae-text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">stLight.options({
+                                        publisher: "65f299a0-bf85-4ea3-ac23-08134a018cba",
+                                        doNotHash: false,
+                                        doNotCopy: false,
+                                        hashAddressBar: false
+                                    });</script>
+</div>
+<div class="col-md-6">
+<a href="https://webnovelreader.org/novel/report/2904/420194" class="pull-right report-btn" data-toggle="modal" data-target="#report_chapter">Report
+Error</a>
+</div>
+</div>
+<br>
+</div>
+<div class="col-lg-12">
+<ul class="chapter-actions">
+<li>
+<a href="https://webnovelreader.org/solo-leveling/chapter-269" class="prev">
+Previous</a> </li>
+<li>
+<select onchange="if (!window.__cfRLUnblockHandlers) return false; location = this.options[this.selectedIndex].value;" data-cf-modified-c519bdaadfc09f12aca0acae-="">
+<option value="https://webnovelreader.org/solo-leveling/chapter-prologue">
+Volume N/A - Prologue</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-1">
+Volume N/A - CH 1</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-2">
+Volume N/A - CH 2</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-3">
+Volume N/A - CH 3</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-4">
+Volume N/A - CH 4</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-5">
+Volume N/A - CH 5</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-6">
+Volume N/A - CH 6</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-7">
+Volume N/A - CH 7</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-8">
+Volume N/A - CH 8</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-9">
+Volume N/A - CH 9</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-10">
+Volume N/A - CH 10</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-11">
+Volume N/A - CH 11</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-12">
+Volume N/A - CH 12</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-13">
+Volume N/A - CH 13</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-14">
+Volume N/A - CH 14</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-15">
+Volume N/A - CH 15</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-16">
+Volume N/A - CH 16</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-17">
+Volume N/A - CH 17</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-18">
+Volume N/A - CH 18</option>
+ <option value="https://webnovelreader.org/solo-leveling/chapter-19">
+Volume N/A - CH 19</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-20">
+Volume N/A - CH 20</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-21">
+Volume N/A - CH 21</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-22">
+Volume N/A - CH 22</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-23">
+Volume N/A - CH 23</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-24">
+Volume N/A - CH 24</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-25">
+Volume N/A - CH 25</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-26">
+Volume N/A - CH 26</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-27">
+Volume N/A - CH 27</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-28">
+Volume N/A - CH 28</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-29">
+Volume N/A - CH 29</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-30">
+Volume N/A - CH 30</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-31">
+Volume N/A - CH 31</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-32">
+Volume N/A  - CH 32</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-33">
+Volume N/A - CH 33</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-34">
+Volume N/A - CH 34</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-35">
+Volume N/A - CH 35</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-36">
+Volume N/A - CH 36</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-37">
+Volume N/A - CH 37</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-38">
+Volume N/A - CH 38</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-39">
+Volume N/A - CH 39</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-40">
+Volume N/A - CH 40</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-41">
+Volume N/A - CH 41</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-42">
+Volume N/A - CH 42</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-43">
+Volume N/A - CH 43</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-44">
+Volume N/A - CH 44</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-45">
+Volume N/A - CH 45</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-46">
+Volume N/A - CH 46</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-47">
+Volume N/A - CH 47</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-48">
+Volume N/A - CH 48</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-49">
+Volume N/A - CH 49</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-50">
+Volume N/A - CH 50</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-51">
+Volume N/A - CH 51</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-52">
+Volume N/A - CH 52</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-53">
+Volume N/A - CH 53</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-54">
+Volume N/A - CH 54</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-55">
+Volume N/A - CH 55</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-56">
+Volume N/A - CH 56</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-57">
+Volume N/A - CH 57</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-58">
+Volume N/A - CH 58</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-59">
+Volume N/A - CH 59</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-60">
+Volume N/A - CH 60</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-61">
+Volume N/A - CH 61</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-62">
+Volume N/A - CH 62</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-63">
+Volume N/A - CH 63</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-64">
+Volume N/A - CH 64</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-65">
+Volume N/A - CH 65</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-66">
+Volume N/A - CH 66</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-67">
+Volume N/A - CH 67</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-68">
+Volume N/A - CH 68</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-69">
+Volume N/A - CH 69</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-70">
+Volume N/A - CH 70</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-71">
+Volume N/A - CH 71</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-72">
+Volume N/A - CH 72</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-73">
+Volume N/A - CH 73</option>
+ <option value="https://webnovelreader.org/solo-leveling/chapter-74">
+Volume N/A - CH 74</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-75">
+Volume N/A - CH 75</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-76">
+Volume N/A - CH 76</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-77">
+Volume N/A - CH 77</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-78">
+Volume N/A - CH 78</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-79">
+Volume N/A - CH 79</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-80">
+Volume N/A - CH 80</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-81">
+Volume N/A - CH 81</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-82">
+Volume N/A - CH 82</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-83">
+Volume N/A - CH 83</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-84">
+Volume N/A - CH 84</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-85">
+Volume N/A - CH 85</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-86">
+Volume N/A - CH 86</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-87">
+Volume N/A - CH 87</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-88">
+Volume N/A - CH 88</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-89">
+Volume N/A - CH 89</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-90">
+Volume N/A - CH 90</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-91">
+Volume N/A - CH 91</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-92">
+Volume N/A - CH 92</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-93">
+Volume N/A - CH 93</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-94">
+Volume N/A - CH 94</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-95">
+Volume N/A - CH 95</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-96">
+Volume N/A - CH 96</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-97">
+Volume N/A - CH 97</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-98">
+Volume N/A - CH 98</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-99">
+Volume N/A - CH 99</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-100">
+Volume N/A - CH 100</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-101">
+Volume N/A - CH 101</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-102">
+Volume N/A - CH 102</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-103">
+Volume N/A - CH 103</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-104">
+Volume N/A - CH 104</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-105">
+Volume N/A - CH 105</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-106">
+Volume N/A - CH 106</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-107">
+Volume N/A - CH 107</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-108">
+Volume N/A - CH 108</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-109">
+Volume N/A - CH 109</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-110">
+Volume N/A - CH 110</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-111">
+Volume N/A - CH 111</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-112">
+Volume N/A - CH 112</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-113">
+Volume N/A - CH 113</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-114">
+Volume N/A - CH 114</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-115">
+Volume N/A - CH 115</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-116">
+Volume N/A - CH 116</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-117">
+Volume N/A - CH 117</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-118">
+Volume N/A - CH 118</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-119">
+Volume N/A - CH 119</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-120">
+Volume N/A - CH 120</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-121">
+ Volume N/A - CH 121</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-122">
+Volume N/A - CH 122</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-123">
+Volume N/A - CH 123</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-124">
+Volume N/A - CH 124</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-125">
+Volume N/A - CH 125</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-126">
+Volume N/A - CH 126</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-127">
+Volume N/A - CH 127</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-128">
+Volume N/A - CH 128</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-129">
+Volume N/A - CH 129</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-130">
+Volume N/A - CH 130</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-131">
+Volume N/A - CH 131</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-132">
+Volume N/A - CH 132</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-133">
+Volume N/A - CH 133</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-134">
+Volume N/A - CH 134</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-135">
+Volume N/A - CH 135</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-136">
+Volume N/A - CH 136</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-137">
+Volume N/A - CH 137</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-138">
+Volume N/A - CH 138</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-139">
+Volume N/A - CH 139</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-140">
+Volume N/A - CH 140</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-141">
+Volume N/A - CH 141</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-142">
+Volume N/A - CH 142</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-143">
+Volume N/A - CH 143</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-144">
+Volume N/A - CH 144</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-145">
+Volume N/A - CH 145</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-146">
+Volume N/A - CH 146</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-147">
+Volume N/A - CH 147</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-148">
+Volume N/A  - CH 148</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-149">
+Volume N/A - CH 149</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-150">
+Volume N/A - CH 150</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-151">
+Volume N/A - CH 151</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-152">
+Volume N/A - CH 152</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-153">
+Volume N/A - CH 153</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-154">
+Volume N/A - CH 154</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-155">
+Volume N/A - CH 155</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-156">
+Volume N/A - CH 156</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-157">
+Volume N/A - CH 157</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-158">
+Volume N/A - CH 158</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-159">
+Volume N/A - CH 159</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-160">
+Volume N/A - CH 160</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-161">
+Volume N/A - CH 161</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-162">
+Volume N/A - CH 162</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-163">
+Volume N/A - CH 163</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-164">
+Volume N/A - CH 164</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-165">
+Volume N/A - CH 165</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-166">
+Volume N/A - CH 166</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-167">
+Volume N/A - CH 167</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-168">
+Volume N/A - CH 168</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-169">
+Volume N/A - CH 169</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-170">
+Volume N/A - CH 170</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-171">
+Volume N/A - CH 171</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-172">
+Volume N/A - CH 172</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-173">
+Volume N/A - CH 173</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-174">
+Volume N/A - CH 174</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-175">
+Volume N/A - CH 175</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-176">
+Volume N/A - CH 176</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-177">
+Volume N/A - CH 177</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-178">
+Volume N/A - CH 178</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-179">
+Volume N/A - CH 179</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-180">
+Volume N/A - CH 180</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-181">
+Volume N/A - CH 181</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-182">
+Volume N/A - CH 182</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-183">
+Volume N/A - CH 183</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-184">
+Volume N/A - CH 184</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-185">
+Volume N/A - CH 185</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-186">
+Volume N/A - CH 186</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-187">
+Volume N/A - CH 187</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-188">
+Volume N/A - CH 188</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-189">
+Volume N/A  - CH 189</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-190">
+Volume N/A - CH 190</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-191">
+Volume N/A - CH 191</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-192">
+Volume N/A - CH 192</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-193">
+Volume N/A - CH 193</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-194">
+Volume N/A - CH 194</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-195">
+Volume N/A - CH 195</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-196">
+Volume N/A - CH 196</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-197">
+Volume N/A - CH 197</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-198">
+Volume N/A - CH 198</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-199">
+Volume N/A - CH 199</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-200">
+Volume N/A - CH 200</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-201">
+Volume N/A - CH 201</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-202">
+Volume N/A - CH 202</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-203">
+Volume N/A - CH 203</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-204">
+Volume N/A - CH 204</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-205">
+Volume N/A - CH 205</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-206">
+Volume N/A - CH 206</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-207">
+Volume N/A - CH 207</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-208">
+Volume N/A - CH 208</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-209">
+Volume N/A - CH 209</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-210">
+Volume N/A - CH 210</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-211">
+Volume N/A - CH 211</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-212">
+Volume N/A - CH 212</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-213">
+Volume N/A - CH 213</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-214">
+Volume N/A - CH 214</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-215">
+Volume N/A - CH 215</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-216">
+Volume N/A - CH 216</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-217">
+Volume N/A - CH 217</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-218">
+Volume N/A - CH 218</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-219">
+Volume N/A - CH 219</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-220">
+Volume N/A - CH 220</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-221">
+Volume N/A - CH 221</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-222">
+Volume N/A - CH 222</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-223">
+Volume N/A - CH 223</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-224">
+Volume N/A - CH 224</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-225">
+Volume N/A - CH 225</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-226">
+Volume N/A - CH 226</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-227">
+Volume N/A - CH 227</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-228">
+Volume N/A - CH 228</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-229">
+Volume N/A - CH 229</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-230">
+Volume N/A  - CH 230</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-231">
+Volume N/A - CH 231</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-232">
+Volume N/A - CH 232</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-233">
+Volume N/A - CH 233</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-234">
+Volume N/A - CH 234</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-235">
+Volume N/A - CH 235</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-236">
+Volume N/A - CH 236</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-237">
+Volume N/A - CH 237</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-238">
+Volume N/A - CH 238</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-239">
+Volume N/A - CH 239</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-240">
+Volume N/A - CH 240</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-241">
+Volume N/A - CH 241</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-242">
+Volume N/A - CH 242</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-243">
+Volume N/A - CH 243</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-244">
+Volume N/A - CH 244</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-245">
+Volume N/A - CH 245</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-246">
+Volume N/A - CH 246</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-247">
+Volume N/A - CH 247</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-248">
+Volume N/A - CH 248</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-249">
+Volume N/A - CH 249</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-250">
+Volume N/A - CH 250</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-251">
+Volume N/A - CH 251</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-252">
+Volume N/A - CH 252</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-253">
+Volume N/A - CH 253</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-254">
+Volume N/A - CH 254</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-255">
+Volume N/A - CH 255</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-256">
+Volume N/A - CH 256</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-257">
+Volume N/A - CH 257</option>
+ <option value="https://webnovelreader.org/solo-leveling/chapter-258">
+Volume N/A - CH 258</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-259">
+Volume N/A - CH 259</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-260">
+Volume N/A - CH 260</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-261">
+Volume N/A - CH 261</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-262">
+Volume N/A - CH 262</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-263">
+Volume N/A - CH 263</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-264">
+Volume N/A - CH 264</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-265">
+Volume N/A - CH 265</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-266">
+Volume N/A - CH 266</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-267">
+Volume N/A - CH 267</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-268">
+Volume N/A - CH 268</option>
+<option value="https://webnovelreader.org/solo-leveling/chapter-269">
+Volume N/A - CH 269</option>
+<option selected="selected" value="https://webnovelreader.org/solo-leveling/chapter-270">
+Volume N/A - CH 270</option>
+<option value="" disabled>------</option>
+</select>
+</li>
+<li>
+ </li>
+</ul>
+</div>
+<center style="margin-top:25px"><span>Sponsored Content</span><br><br>
+<div id='div-gpt-ad-1546273656898-4'>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1546273656898-4'); });
+</script>
+</div></center><br><hr><br>
+<div class="col-lg-12">
+<div class="block-header mb30">
+<div class="block-title">COMMENTS</div>
+</div>
+</div>
+<div class="col-lg-12 comments">
+<h3>No Comments Yet</h3>
+<div class="comment-block">
+</div>
+<h3>Post a new comment</h3>
+<div class="post-comment">
+<form>
+<input type="hidden" name="novel_id" value="2904">
+<input type="hidden" name="chapter_id" value="420194">
+<div class="row">
+<div class="col-lg-6">
+<input type="text" name="name" placeholder="Name (required)" class="form-control">
+</div>
+<div class="col-lg-6">
+<input type="text" name="mail" placeholder="Email (required):" class="form-control">
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+<textarea name="comment" placeholder="type your comment here..." rows="8" class="form-control"></textarea>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+<div data-sitekey="6LfS5pkUAAAAAH8M7_y1ud5s6QdcZ1QJPHnbF9Qz" class="g-recaptcha captcha"></div>
+<div class="submit">
+<button type="submit" class="btn btn-md g-recaptcha" data-sitekey="6LfS5pkUAAAAAH8M7_y1ud5s6QdcZ1QJPHnbF9Qz">SUBMIT</button>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 sidebar">
+<div class="row">
+<div class="col-lg-12" style="margin-top:50px; margin-bottom:50px;min-height:250px;"><center><small class="ads-title"><span>Sponsored Content</span></small></center><div class="ads ads300x250">
+<div id='div-gpt-ad-1546273656898-1'>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1546273656898-1'); });
+</script>
+</div></div><hr></div>
+<div class="col-lg-12">
+<div class="popular-novels">
+<div class="block-header">
+<div class="block-title">POPULAR NOVELS</div>
+</div>
+<div class="popular-novel-item-block">
+<div class="popular-novel-item-top clearfix">
+<div class="title"><a href="https://webnovelreader.org/the-trembling-world">The Trembling World</a></div>
+<div class="rating"><a href="https://webnovelreader.org/the-trembling-world">8.2</a></div>
+</div>
+<div class="popular-novel-item-bottom">
+<div class="progress">
+<div style="width:82.112018669777%;" class="progress-bar"></div>
+</div>
+</div>
+</div>
+<div class="popular-novel-item-block">
+<div class="popular-novel-item-top clearfix">
+<div class="title"><a href="https://webnovelreader.org/spending-my-retirement-in-a-game">Spending My Retirement In A Game</a></div>
+<div class="rating"><a href="https://webnovelreader.org/spending-my-retirement-in-a-game">8.2</a></div>
+</div>
+<div class="popular-novel-item-bottom">
+<div class="progress">
+<div style="width:81.574181117534%;" class="progress-bar"></div>
+</div>
+</div>
+</div>
+<div class="popular-novel-item-block">
+<div class="popular-novel-item-top clearfix">
+<div class="title"><a href="https://webnovelreader.org/dungeon-core-online">Dungeon Core Online</a></div>
+<div class="rating"><a href="https://webnovelreader.org/dungeon-core-online">8.0</a></div>
+</div>
+<div class="popular-novel-item-bottom">
+<div class="progress">
+<div style="width:80.373786407767%;" class="progress-bar"></div>
+</div>
+</div>
+</div>
+<div class="popular-novel-item-block">
+<div class="popular-novel-item-top clearfix">
+<div class="title"><a href="https://webnovelreader.org/the-dragon-princes-beloved-wife-is-a-translator">The Dragon Prince's Beloved Wife is a Translator</a></div>
+<div class="rating"><a href="https://webnovelreader.org/the-dragon-princes-beloved-wife-is-a-translator">8.0</a></div>
+</div>
+<div class="popular-novel-item-bottom">
+<div class="progress">
+<div style="width:79.932926829268%;" class="progress-bar"></div>
+</div>
+</div>
+</div>
+<div class="popular-novel-item-block">
+<div class="popular-novel-item-top clearfix">
+<div class="title"><a href="https://webnovelreader.org/king-of-sports">King of Sports</a></div>
+<div class="rating"><a href="https://webnovelreader.org/king-of-sports">8.0</a></div>
+</div>
+<div class="popular-novel-item-bottom">
+<div class="progress">
+<div style="width:79.64%;" class="progress-bar"></div>
+</div>
+</div>
+</div>
+<div class="popular-novel-item-block">
+<div class="popular-novel-item-top clearfix">
+<div class="title"><a href="https://webnovelreader.org/mutagen">Mutagen</a></div>
+<div class="rating"><a href="https://webnovelreader.org/mutagen">8.0</a></div>
+</div>
+<div class="popular-novel-item-bottom">
+<div class="progress">
+<div style="width:79.63179916318%;" class="progress-bar"></div>
+</div>
+</div>
+</div>
+<div class="popular-novel-item-block">
+<div class="popular-novel-item-top clearfix">
+<div class="title"><a href="https://webnovelreader.org/second-life-ranker">Second Life Ranker</a></div>
+<div class="rating"><a href="https://webnovelreader.org/second-life-ranker">8.0</a></div>
+</div>
+ <div class="popular-novel-item-bottom">
+<div class="progress">
+<div style="width:79.588513267902%;" class="progress-bar"></div>
+</div>
+</div>
+</div>
+<div class="popular-novel-item-block">
+<div class="popular-novel-item-top clearfix">
+<div class="title"><a href="https://webnovelreader.org/divine-brilliance">Divine Brilliance</a></div>
+<div class="rating"><a href="https://webnovelreader.org/divine-brilliance">7.9</a></div>
+</div>
+<div class="popular-novel-item-bottom">
+<div class="progress">
+<div style="width:79.48802946593%;" class="progress-bar"></div>
+</div>
+</div>
+</div>
+<div class="popular-novel-item-block">
+<div class="popular-novel-item-top clearfix">
+<div class="title"><a href="https://webnovelreader.org/lord-of-the-mysteries">Lord of the Mysteries</a></div>
+<div class="rating"><a href="https://webnovelreader.org/lord-of-the-mysteries">7.9</a></div>
+</div>
+<div class="popular-novel-item-bottom">
+<div class="progress">
+<div style="width:79.417112299465%;" class="progress-bar"></div>
+</div>
+</div>
+</div>
+<div class="popular-novel-item-block">
+<div class="popular-novel-item-top clearfix">
+<div class="title"><a href="https://webnovelreader.org/supreme-magus">Supreme Magus</a></div>
+<div class="rating"><a href="https://webnovelreader.org/supreme-magus">7.9</a></div>
+</div>
+<div class="popular-novel-item-bottom">
+<div class="progress">
+<div style="width:79.341777408638%;" class="progress-bar"></div>
+</div>
+</div>
+</div>
+<div class="popular-novel-item-block">
+<div class="popular-novel-item-top clearfix">
+<div class="title"><a href="https://webnovelreader.org/rebirth-of-the-entertainment-giant-">Rebirth of the Entertainment Giant </a></div>
+<div class="rating"><a href="https://webnovelreader.org/rebirth-of-the-entertainment-giant-">7.9</a></div>
+</div>
+<div class="popular-novel-item-bottom">
+<div class="progress">
+<div style="width:78.869565217391%;" class="progress-bar"></div>
+</div>
+</div>
+</div>
+<div class="popular-novel-item-block">
+<div class="popular-novel-item-top clearfix">
+<div class="title"><a href="https://webnovelreader.org/youve-got-the-wrong-house-villain">You’ve Got The Wrong House, Villain</a></div>
+<div class="rating"><a href="https://webnovelreader.org/youve-got-the-wrong-house-villain">7.9</a></div>
+</div>
+<div class="popular-novel-item-bottom">
+<div class="progress">
+<div style="width:78.804597701149%;" class="progress-bar"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-12" style="min-height:250px;"><center><small class="ads-title"><span>Sponsored Content</span></small></center><div class="ads ads300x250">
+<div id='div-gpt-ad-1546273656898-2'>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1546273656898-2'); });
+</script>
+</div></div><hr></div>
+<div class="col-lg-12">
+<div class="search-by-genre">
+<div class="block-header">
+<div class="block-title">SEARCH BY GENRE</div>
+</div>
+<ul>
+<li><a href="https://webnovelreader.org/category/adventure" title="Adventure">Adventure</a><span class="item-count">1225</span></li>
+<li><a href="https://webnovelreader.org/category/fantasy" title="Fantasy">Fantasy</a><span class="item-count">2314</span></li>
+<li><a href="https://webnovelreader.org/category/sci-fi" title="Sci-fi">Sci-fi</a><span class="item-count">325</span></li>
+<li><a href="https://webnovelreader.org/category/action" title="Action">Action</a><span class="item-count">1542</span></li>
+<li><a href="https://webnovelreader.org/category/shounen" title="Shounen">Shounen</a><span class="item-count">366</span></li>
+<li><a href="https://webnovelreader.org/category/drama" title="Drama">Drama</a><span class="item-count">659</span></li>
+<li><a href="https://webnovelreader.org/category/mystery" title="Mystery">Mystery</a><span class="item-count">255</span></li>
+<li><a href="https://webnovelreader.org/category/psychological" title="Psychological">Psychological</a><span class="item-count">153</span></li>
+<li><a href="https://webnovelreader.org/category/romance" title="Romance">Romance</a><span class="item-count">1921</span></li>
+<li><a href="https://webnovelreader.org/category/school-life" title="School Life">School Life</a><span class="item-count">412</span></li>
+<li><a href="https://webnovelreader.org/category/shoujo" title="Shoujo">Shoujo</a><span class="item-count">262</span></li>
+<li><a href="https://webnovelreader.org/category/comedy" title="Comedy">Comedy</a><span class="item-count">1064</span></li>
+<li><a href="https://webnovelreader.org/category/slice-of-life" title="Slice of Life">Slice of Life</a><span class="item-count">375</span></li>
+<li><a href="https://webnovelreader.org/category/gender-bender" title="Gender Bender">Gender Bender</a><span class="item-count">105</span></li>
+<li><a href="https://webnovelreader.org/category/harem" title="Harem">Harem</a><span class="item-count">539</span></li>
+<li><a href="https://webnovelreader.org/category/yaoi" title="Yaoi">Yaoi</a><span class="item-count">114</span></li>
+<li><a href="https://webnovelreader.org/category/wuxia" title="Wuxia">Wuxia</a><span class="item-count">91</span></li>
+<li><a href="https://webnovelreader.org/category/martial-arts" title="Martial Arts">Martial Arts</a><span class="item-count">557</span></li>
+<li><a href="https://webnovelreader.org/category/mature" title="Mature">Mature</a><span class="item-count">257</span></li>
+<li><a href="https://webnovelreader.org/category/xianxia" title="Xianxia">Xianxia</a><span class="item-count">281</span></li>
+<li><a href="https://webnovelreader.org/category/josei" title="Josei">Josei</a><span class="item-count">232</span></li>
+<li><a href="https://webnovelreader.org/category/historical" title="Historical">Historical</a><span class="item-count">291</span></li>
+<li><a href="https://webnovelreader.org/category/seinen" title="Seinen">Seinen</a><span class="item-count">291</span></li>
+ <li><a href="https://webnovelreader.org/category/tragedy" title="Tragedy">Tragedy</a><span class="item-count">133</span></li>
+<li><a href="https://webnovelreader.org/category/supernatural" title="Supernatural">Supernatural</a><span class="item-count">555</span></li>
+<li><a href="https://webnovelreader.org/category/ecchi" title="Ecchi">Ecchi</a><span class="item-count">213</span></li>
+<li><a href="https://webnovelreader.org/category/yuri" title="Yuri">Yuri</a><span class="item-count">22</span></li>
+<li><a href="https://webnovelreader.org/category/smut" title="Smut">Smut</a><span class="item-count">38</span></li>
+<li><a href="https://webnovelreader.org/category/mecha" title="Mecha">Mecha</a><span class="item-count">64</span></li>
+<li><a href="https://webnovelreader.org/category/horror" title="Horror">Horror</a><span class="item-count">118</span></li>
+<li><a href="https://webnovelreader.org/category/shounen-ai" title="Shounen Ai">Shounen Ai</a><span class="item-count">85</span></li>
+<li><a href="https://webnovelreader.org/category/sports" title="Sports">Sports</a><span class="item-count">26</span></li>
+<li><a href="https://webnovelreader.org/category/shoujo-ai" title="Shoujo Ai">Shoujo Ai</a><span class="item-count">24</span></li>
+<li><a href="https://webnovelreader.org/category/shotacon" title="Shotacon">Shotacon</a><span class="item-count">1</span></li>
+<li><a href="https://webnovelreader.org/category/xuanhuan" title="Xuanhuan">Xuanhuan</a><span class="item-count">127</span></li>
+<li><a href="https://webnovelreader.org/category/celebrity" title="Celebrity">Celebrity</a><span class="item-count">5</span></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-12">
+<div class="search-by-genre">
+<div class="block-header">
+<div class="block-title">SHARE</div>
+</div>
+<script type="c519bdaadfc09f12aca0acae-text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">stLight.options({publisher: "65f299a0-bf85-4ea3-ac23-08134a018cba", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<center>
+<span class='st_facebook_vcount' displayText='Facebook'></span>
+<span class='st_twitter_vcount' displayText='Tweet'></span>
+<span class='st_googleplus_vcount' displayText='Google +'></span>
+</center>
+<br>
+</div>
+</div>
+<div class="col-lg-12">
+<div class="latest-comments">
+<div class="block-header">
+<div class="block-title">LATEST COMMENTS</div>
+</div>
+<div class="latest-comment-item-block">
+<div class="user-image">
+<a href="javascript:;">
+<img src="https://webnovelreader.org/uploads/posters/21st-century-archmage.jpg">
+</a>
+</div>
+<div class="latest-comment-item-body">
+<div class="triangle">
+<span class="glyphicon glyphicon-triangle-left"></span>
+</div>
+<div class="novel-title">
+<a href="javascript:;">
+21st Century Archmage </a>
+</div>
+<div class="novel-comment">
+<p><a href="javascript:;">This novel must have been dropped because there has not been ny new chapter since 3 years ago. (2016-2017)</a></p>
+</div>
+<div class="novel-commentator"><a href="javascript:;">Afterimage</a> </div>
+</div>
+</div>
+<div class="latest-comment-item-block">
+<div class="user-image">
+<a href="javascript:;">
+<img src="https://webnovelreader.org/assets/images/noimage.jpg">
+</a>
+</div>
+<div class="latest-comment-item-body">
+<div class="triangle">
+<span class="glyphicon glyphicon-triangle-left"></span>
+</div>
+<div class="novel-title">
+<a href="javascript:;">
+My Room Has Become a Dungeon’s Rest Area </a>
+</div>
+<div class="novel-comment">
+<p><a href="javascript:;">The year of the novel is 2017 and even if the status says is still ongoing, it looks more like it was dropped or cancelled, based on the chapter count or simply not being translated anymore.</a></p>
+</div>
+<div class="novel-commentator"><a href="javascript:;">Afterimage</a> </div>
+</div>
+</div>
+<div class="latest-comment-item-block">
+<div class="user-image">
+<a href="javascript:;">
+<img src="https://webnovelreader.org/uploads/posters/1473505789.jpg">
+</a>
+</div>
+<div class="latest-comment-item-body">
+<div class="triangle">
+<span class="glyphicon glyphicon-triangle-left"></span>
+</div>
+<div class="novel-title">
+<a href="javascript:;">
+Flower Demon’s Inn </a>
+</div>
+<div class="novel-comment">
+<p><a href="javascript:;">asdasd</a></p>
+</div>
+<div class="novel-commentator">anonymous </div>
+</div>
+</div>
+<div class="latest-comment-item-block">
+<div class="user-image">
+<a href="javascript:;">
+<img src="https://webnovelreader.org/uploads/posters/1554422569.jpg">
+</a>
+</div>
+<div class="latest-comment-item-body">
+<div class="triangle">
+<span class="glyphicon glyphicon-triangle-left"></span>
+</div>
+<div class="novel-title">
+<a href="javascript:;">
+Supreme Magus </a>
+</div>
+<div class="novel-comment">
+<p><a href="javascript:;">wtf is up with the skip in chapters?</a></p>
+</div>
+<div class="novel-commentator"><a href="javascript:;">NOFORGET</a> </div>
+</div>
+</div>
+<div class="latest-comment-item-block">
+<div class="user-image">
+<a href="javascript:;">
+<img src="https://webnovelreader.org/uploads/posters/1555964460.jpg">
+</a>
+</div>
+<div class="latest-comment-item-body">
+<div class="triangle">
+<span class="glyphicon glyphicon-triangle-left"></span>
+</div>
+<div class="novel-title">
+<a href="javascript:;">
+The Untouchable President </a>
+</div>
+<div class="novel-comment">
+<p><a href="javascript:;">When the rest story will upload</a></p>
+</div>
+<div class="novel-commentator">anonymous </div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-12">
+<div class="facebook-page">
+<div class="block-header">
+<div class="block-title">FIND US ON FACEBOOK</div>
+</div>
+<div class="facebook-page-block">
+<div id="fb-root"></div>
+<script type="c519bdaadfc09f12aca0acae-text/javascript">(function(d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s); js.id = id;
+                        js.src = "//connect.facebook.net/tr_TR/sdk.js#xfbml=1&version=v2.5&appId=481630892009911";
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-page" data-href="https://www.facebook.com/Webnovelreader-257757341328574/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/Webnovelreader-257757341328574/"><a href="https://www.facebook.com/Webnovelreader-257757341328574/">Web Novel Reader</a></blockquote></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="footer">
+<div class="copyright">
+<p>&copy; COPYRIGHT &nbsp;webnovelreader.org. ALL RIGHTS RESERVED.</p>
+</div>
+<div class="navigation">
+<ul>
+<li><a href="https://webnovelreader.org/dmca">DMCA</a></li>
+<li><a href="https://webnovelreader.org/contact">Contact</a></li>
+<li><a href="https://webnovelreader.org/privacy-policy">Privacy & Policy</a></li>
+<li><a href="https://webnovelreader.org/terms-of-service">Terms of Service</a></li>
+</ul>
+</div>
+</div>
+</div>
+<script src="https://webnovelreader.org/assets/scripts/minify.js?v=7" type="c519bdaadfc09f12aca0acae-text/javascript"></script>
+<script src="https://webnovelreader.org/assets/scripts/jquery-validate.js" type="c519bdaadfc09f12aca0acae-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="c519bdaadfc09f12aca0acae-|49" defer=""></script></body>
+</html> 
